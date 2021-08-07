@@ -1,0 +1,172 @@
+nav{
+    width: 100%;
+    background-color: #bf3043;
+    height: 100px;
+    position: fixed;
+    top: 0%;
+    
+}
+nav li {
+    float: right;
+    padding: 1%;
+    line-height: 50px;
+    margin-left: 1%;
+    
+}
+ul{
+    list-style: none;
+    padding-right: 5%;
+}
+li:hover{
+    background-color: #000;
+    color: white;
+}
+#welcome-section{
+    background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+    height: 100vh;
+  
+    color: white;
+    text-align: center;
+    
+
+}
+#welcome{
+   
+   line-height: 400px;
+}
+article{
+    color: rgb(197, 36, 36);
+    margin-top: -390px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.project-tile{
+    
+    
+    width: 25%;
+    height: 400px;
+    background-color: #45567d;
+    
+}
+#projects{
+    background-color: #45567d;
+  height: 450px ;
+  padding-top: 10px;
+ display: flex;
+}
+img{
+    width: 100%;
+    height: 350px;
+}
+p{
+    background-color: #303841;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 0;
+    color: white;
+    margin-top: -10px ;
+}
+.project-tile1{
+    
+    
+    width: 25%;
+    height: 400px;
+    background-color: #45567d;
+    
+}
+.project-tile2{
+    
+    
+    width: 25%;
+    height: 400px;
+    background-color: #45567d;
+    
+}
+.project-tile3{
+    
+    
+    width: 25%;
+    height: 400px;
+    background-color: #45567d;
+    
+}
+.project-tile4{
+    
+    
+    width: 25%;
+    height: 400px;
+    background-color: #45567d;
+    
+}
+.project-tile5{
+    
+    
+    width: 25%;
+    height: 400px;
+    background-color: #45567d;
+    bottom: 0;
+    
+}
+#projects1{
+    background-color: #45567d;
+    height: 500px;
+    display: flex;
+
+}
+#profile-link{
+    padding: 15px;
+    height: 20px;
+    color: white;
+    background-color: #303841;
+  
+  
+   
+    
+}
+#projects2{
+    display: block;
+    text-align: center;
+    width: 100%;
+    background-color: #45567d;
+    height: 50px;
+    
+}
+#profile-link:hover{
+    background-color: #bf3043;
+}
+footer{
+    height: 100vh; 
+    background-color: #303841;
+    
+}
+span{
+   margin-top: 10px;
+    width: 100%;
+    margin-left: 43%;
+    color: white;
+   
+}
+h2{
+    display: inline-block;
+    margin-top: 150px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+ 
+
+}
+
+#icon{
+    width: 100%;
+    text-align: center;
+    color: white;
+    
+}
+i{
+    margin-left: 30px;
+    
+}
